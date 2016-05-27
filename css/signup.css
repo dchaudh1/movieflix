@@ -1,0 +1,18 @@
+.login-content {
+    height: 500px;
+    padding: 15px 20px;
+    width: 375px;
+    top: 40px;
+}
+
+.form-group{
+    margin-bottom: 12px;
+}
+
+.fa-sign-in{
+    padding-right: 5px;
+}
+
+h4{
+    text-align: center !important;
+}
